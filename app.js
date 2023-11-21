@@ -27,5 +27,5 @@ app.get("/", (req, res) => {
   });
 });
 
-require("./routes/tuto")(app);
+require("./src/routes/tuto")(app);
 module.exports = app;
