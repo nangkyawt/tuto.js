@@ -2,9 +2,9 @@
 
 module.exports = {
   HOST: "dpg-cldevv7gsrdc73fksf2g-a",
-  USER: "postgres",
+  USER: "nang",
   PASSWORD: "at91RwjB7NPOL54qzdom7DBwzF1fD1CD",
-  DB: "tuto_eido",
+  DB: "nang",
   dialect: "postgres", //mysql, sqlite
   pool: {
     max: 5,
